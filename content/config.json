@@ -58,6 +58,57 @@
     "enable_newsletter_page": false,
     "show_sponsors_footer": false
   },
+  "about_sections": [
+    {
+      "id": "rbo",
+      "title": "About The Regional Branch Organizer",
+      "logo": "/assets/images/sponsors/axomem-logo.png",
+      "logo_alt": "Axomem",
+      "paragraphs": [
+        "Axomem has been appointed as the Regional Branch Organizer for Singapore and Southeast Asia to facilitate local Digital Twin Consortium® activities.",
+        "Axomem specializes in digital twin technology and enterprise software solutions, helping organizations build and deploy digital twins that drive operational excellence.",
+        "Axomem's CEO, Sean Whiteley, brings extensive experience in digital twin platforms and enterprise software to lead the Singapore Regional Branch."
+      ],
+      "learn_more": "Learn more about Axomem:",
+      "links": {
+        "website": "https://axomem.com",
+        "linkedin": "https://www.linkedin.com/company/axomem"
+      }
+    },
+    {
+      "id": "cofounding",
+      "title": "Co-founding Member",
+      "logo": "/assets/images/sponsors/dell-logo.png",
+      "logo_alt": "Dell Technologies",
+      "paragraphs": [
+        "Dell Technologies is a co-founding member of the Digital Twin Consortium Singapore Regional Branch, bringing world-class infrastructure and edge computing capabilities to the digital twin ecosystem.",
+        "Dell's comprehensive portfolio of computing, storage, and networking solutions provides the foundation for enterprise-grade digital twin deployments across Southeast Asia."
+      ],
+      "learn_more": "Learn more about Dell Technologies:",
+      "links": {
+        "website": "https://www.dell.com/en-sg",
+        "linkedin": "https://www.linkedin.com/company/delltechnologies"
+      }
+    },
+    {
+      "id": "dtc",
+      "title": "About The Digital Twin Consortium",
+      "logo": "/assets/images/dtc-logo.svg",
+      "logo_alt": "Digital Twin Consortium",
+      "paragraphs": [
+        "Digital Twin Consortium® is The Authority in Digital Twin. It coalesces industry, government and academia to drive consistency in vocabulary, architecture, security and interoperability of digital twin technology.",
+        "It advances the use of digital twin technology from aerospace to natural resources.",
+        "Digital Twin Consortium is open to any business, organization or entity with an interest in digital twins.",
+        "Their global membership is committed to using digital twins throughout their operations and supply chains and capturing best practices and standards requirements for themselves and their clients."
+      ],
+      "learn_more": "Learn more about the Digital Twin Consortium:",
+      "links": {
+        "website": "https://www.digitaltwinconsortium.org",
+        "linkedin": "https://www.linkedin.com/company/digital-twin-consortium",
+        "twitter": "https://twitter.com/DigitalTwinCon"
+      }
+    }
+  ],
   "build": {
     "output_dir": "site",
     "content_dir": "content",
