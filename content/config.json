@@ -1,0 +1,69 @@
+{
+  "site": {
+    "name": "Digital Twin Consortium - Singapore",
+    "short_name": "DTC Singapore",
+    "tagline": "Regional Branch Singapore",
+    "description": "Facilitating local Digital Twin Consortium activities in Singapore and Southeast Asia",
+    "url": "https://digitaltwins-sg.org",
+    "default_locale": "en-SG",
+    "supported_locales": ["en-SG"],
+    "timezone": "Asia/Singapore"
+  },
+  "organization": {
+    "rbo_name": "Axomem",
+    "rbo_website": "https://axomem.com",
+    "parent_org": "Digital Twin Consortium",
+    "parent_website": "https://www.digitaltwinconsortium.org"
+  },
+  "contact": {
+    "linkedin_page": "https://www.linkedin.com/company/digitaltwins-sg",
+    "dtc_contact_page": "https://www.digitaltwinconsortium.org/contact/",
+    "email": null
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/digitaltwins-sg",
+    "twitter": null,
+    "youtube": null
+  },
+  "branding": {
+    "primary_color": "#034ea2",
+    "secondary_color": "#003366",
+    "accent_color": "#f7941d",
+    "logo": "/assets/images/dtc-sg-logo.svg",
+    "favicon": "/assets/images/favicon.ico"
+  },
+  "navigation": [
+    {"label": "Upcoming Event", "url": "/events/2026-01-singapore-digital-twin-consortium-rbo-kickoff/"},
+    {
+      "label": "Initiatives",
+      "url": "#",
+      "children": [
+        {"label": "Capabilities Periodic Table", "url": "https://www.digitaltwinconsortium.org/initiatives/capabilities-periodic-table/", "external": true},
+        {"label": "Definition Of A Digital Twin", "url": "https://www.digitaltwinconsortium.org/initiatives/the-definition-of-a-digital-twin/", "external": true},
+        {"label": "Global Ecosystem Expansion", "url": "https://www.digitaltwinconsortium.org/initiatives/global-networking/", "external": true},
+        {"label": "Glossary Of Digital Twins", "url": "https://www.digitaltwinconsortium.org/glossary/", "external": true},
+        {"label": "Member Digital Marketplace", "url": "https://www.digitaltwinconsortium.org/initiatives/digital-marketplace/", "external": true},
+        {"label": "Open-Source Repository", "url": "https://www.digitaltwinconsortium.org/initiatives/open-source/", "external": true},
+        {"label": "Use Case Reference Library", "url": "https://www.digitaltwinconsortium.org/initiatives/usecase-library/", "external": true},
+        {"label": "Value-Innovation-Platform (VIP)", "url": "https://www.digitaltwinconsortium.org/initiatives/vip-initiative/", "external": true}
+      ]
+    },
+    {"label": "Contact Us", "url": "/contact/"}
+  ],
+  "features": {
+    "enable_event_registration_links": true,
+    "show_past_events": true,
+    "enable_team_profiles": false,
+    "enable_news_section": false,
+    "enable_newsletter_page": false,
+    "show_sponsors_footer": false
+  },
+  "build": {
+    "output_dir": "site",
+    "content_dir": "content",
+    "assets_dir": "assets",
+    "templates_dir": "toolkit/templates",
+    "generate_sitemap": false,
+    "generate_robots_txt": false
+  }
+}
