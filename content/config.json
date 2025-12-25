@@ -4,7 +4,7 @@
     "short_name": "DTC Singapore",
     "tagline": "Regional Branch Singapore",
     "description": "Facilitating local Digital Twin Consortium activities in Singapore and Southeast Asia",
-    "url": "https://digitaltwins-sg.org",
+    "url": "https://www.digitaltwins-sg.org",
     "default_locale": "en-SG",
     "supported_locales": ["en-SG"],
     "timezone": "Asia/Singapore"
