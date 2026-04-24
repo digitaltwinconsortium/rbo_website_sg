@@ -33,7 +33,7 @@
     "favicon": "/assets/images/favicon.ico"
   },
   "navigation": [
-    {"label": "Upcoming Event", "url": "/events/2026-01-singapore-digital-twin-consortium-rbo-kickoff/"},
+    {"label": "Upcoming Event", "url": "/events/2026-07-singapore-digital-twin-consortium-next-event/"},
     {
       "label": "Initiatives",
       "url": "#",
